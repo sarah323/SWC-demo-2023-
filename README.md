@@ -1,2 +1,6 @@
 # SWC-demo-2023-
-A demo repo
+
+Software carpentry Demonstration strategy
+
+TODO
+*Invite somebody to collaborate
